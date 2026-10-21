@@ -40,3 +40,4 @@ for(let x in obj){
 for(let x in obj){
     console.log(obj[x]);//print only keys
 }
+
